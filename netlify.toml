@@ -6,4 +6,5 @@
   GIST_URL = "Paste your Gist URL here"
 
 [build]
-  functionsSource = "netlify/functions/"
+  functions = "netlify/functions"
+  publish = "public"
